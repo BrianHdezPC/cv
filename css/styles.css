@@ -1,5 +1,10 @@
+html {
+  font-size: 10px;
+}
 body {
   background-color: lightcyan;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
   text-align: justify;
 }
 hr {
@@ -12,9 +17,11 @@ hr {
 }
 h1 {
   color: #22577A;
+  font-size: 3.5rem;
 }
 h3 {
   color: #22577A;
+  font-size: 2rem;
 }
 em {
   color: #22577A;
