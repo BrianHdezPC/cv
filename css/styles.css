@@ -2,18 +2,23 @@ body {
   background-color: lightcyan;
   text-align: justify;
 }
-
 hr {
   background-color: lightcyan;
   border-style: none;
   border-top-style: dotted;
   border-color: #22577A;
   border-width: 5px;
-  width: 7%;
+  width: 4%;
 }
 h1 {
   color: #22577A;
 }
 h3 {
   color: #22577A;
+}
+em {
+  color: #22577A;
+}
+img {
+  border-radius: 8px;
 }
